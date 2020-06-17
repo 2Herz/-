@@ -1,8 +1,0 @@
-APIENTRY
-
-	__stdcall
-	__cdcall
-	__fastcall
-	__thiscall
-
-함수 호출규약
