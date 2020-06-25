@@ -178,7 +178,7 @@ int APIENTRY WinMain(
 		g_className,				//	위의 윈도우클래스 이름
 		g_winName,					//	윈도우 타이틀
 		wsOption,					//	윈도우 기본 옵션( 캡션바, 최대화버튼, 최소버튼. )
-		-1920, 0,					//	윈도우 시작 위치
+		0, 0,					//	윈도우 시작 위치
 		rt.right - rt.left, rt.bottom - rt.top,	//	윈도우 크기
 		nullptr,					//	부모윈도우핸들
 		nullptr,					//	메뉴핸들
